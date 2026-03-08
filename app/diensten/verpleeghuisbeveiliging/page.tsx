@@ -33,7 +33,7 @@ export default function VerpleeghuisbeveiligingPage() {
         "De-escalatie bij onbegrepen gedrag",
         "Discreet en respectvol",
         "Ervaring in heel Limburg",
-        "Vergunning ND 6250",
+        "Vergunning ND 8969",
         "Korte lijnen met locatiemanagement",
       ]}
       ctaText="Veiligheid en warmte voor uw bewoners"

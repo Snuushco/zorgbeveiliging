@@ -3,7 +3,7 @@ import DienstPage from "@/components/DienstPage";
 
 export const metadata: Metadata = {
   title: "GGZ-beveiliging — Specialistische beveiliging voor de geestelijke gezondheidszorg",
-  description: "Gespecialiseerde beveiliging voor GGZ-instellingen. De-escalatie getrainde beveiligers die psychiatrische zorg begrijpen. Praesidion Security — vergunning ND 6250.",
+  description: "Gespecialiseerde beveiliging voor GGZ-instellingen. De-escalatie getrainde beveiligers die psychiatrische zorg begrijpen. Praesidion Security — vergunning ND 8969.",
 };
 
 export default function GGZBeveiligingPage() {
@@ -33,7 +33,7 @@ export default function GGZBeveiligingPage() {
         "Vaste teams per locatie",
         "24/7 beschikbaar",
         "Ervaring bij meerdere GGZ-instellingen",
-        "Vergunning ND 6250",
+        "Vergunning ND 8969",
         "Maatwerk voor open en gesloten afdelingen",
       ]}
       ctaText="Professionele GGZ-beveiliging begint met het juiste team"

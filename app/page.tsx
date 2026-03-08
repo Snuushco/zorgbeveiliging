@@ -53,7 +53,7 @@ const testimonials = [
 ];
 
 const stats = [
-  { value: "ND 6250", label: "Beveiligingsvergunning" },
+  { value: "ND 8969", label: "Beveiligingsvergunning" },
   { value: "24/7", label: "Beschikbaarheid" },
   { value: "100%", label: "Vaste teams" },
   { value: "Limburg", label: "Onze regio" },

@@ -3,7 +3,7 @@ import DienstPage from "@/components/DienstPage";
 
 export const metadata: Metadata = {
   title: "Ziekenhuisbeveiliging — Professionele beveiliging voor ziekenhuizen",
-  description: "Gespecialiseerde ziekenhuisbeveiliging met de-escalatie getrainde beveiligers. SEH, psychiatrie, bezoekersstromen. Praesidion Security — vergunning ND 6250.",
+  description: "Gespecialiseerde ziekenhuisbeveiliging met de-escalatie getrainde beveiligers. SEH, psychiatrie, bezoekersstromen. Praesidion Security — vergunning ND 8969.",
 };
 
 export default function ZiekenhuisbeveiligingPage() {
@@ -29,7 +29,7 @@ export default function ZiekenhuisbeveiligingPage() {
       usps={[
         "Vaste beveiligers die uw ziekenhuis kennen",
         "24/7 beschikbaar, ook in het weekend",
-        "Vergunning ND 6250",
+        "Vergunning ND 8969",
         "De-escalatie als kerncompetentie",
         "Ervaring met SEH, psychiatrie, IC",
         "Korte lijnen, directe communicatie",

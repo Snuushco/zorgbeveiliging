@@ -9,7 +9,7 @@ export const metadata: Metadata = {
     template: "%s | Zorgbewaking.nl",
   },
   description:
-    "Professionele zorgbeveiliging in Limburg. De-escalatie getrainde beveiligers voor ziekenhuizen, verpleeghuizen, GGZ en AZC. Praesidion Security — vergunning ND 6250.",
+    "Professionele zorgbeveiliging in Limburg. De-escalatie getrainde beveiligers voor ziekenhuizen, verpleeghuizen, GGZ en AZC. Praesidion Security — vergunning ND 8969.",
   metadataBase: new URL("https://zorgbewaking.nl"),
   openGraph: {
     type: "website",
