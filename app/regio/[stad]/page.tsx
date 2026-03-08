@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   if (!regio) return {};
   return {
     title: `Zorgbeveiliging ${regio.stad} — Professionele beveiliging voor zorginstellingen`,
-    description: `Zorgbeveiliging in ${regio.stad} en omgeving. De-escalatie getrainde beveiligers voor ziekenhuizen, verpleeghuizen en GGZ. Praesidion Security — vergunning ND 8969.`,
+    description: `Zorgbeveiliging in ${regio.stad} en omgeving. De-escalatie getrainde beveiligers voor ziekenhuizen, verpleeghuizen en GGZ. Praesidion Security — vergunning ND 8968.`,
   };
 }
 
@@ -102,7 +102,7 @@ export default async function RegioPage({ params }: Props) {
                     "24/7 beschikbaar, ook in het weekend en op feestdagen",
                     "Korte aanrijtijden door regionale focus op Limburg",
                     "Bewezen ervaring bij zorginstellingen in de regio",
-                    "Beveiligingsvergunning ND 8969",
+                    "Beveiligingsvergunning ND 8968",
                   ].map((item, i) => (
                     <li key={i} className="flex items-start gap-3">
                       <svg className="w-5 h-5 text-primary shrink-0 mt-0.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

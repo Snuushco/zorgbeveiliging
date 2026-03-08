@@ -32,7 +32,7 @@ export default function AZCBeveiligingPage() {
         "Traumasensitief werken",
         "Meertalige beveiligers",
         "24/7 inzetbaar",
-        "Vergunning ND 8969",
+        "Vergunning ND 8968",
         "Samenwerking met COA en gemeenten",
         "De-escalatie als uitgangspunt",
       ]}

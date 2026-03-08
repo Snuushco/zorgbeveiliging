@@ -32,7 +32,7 @@ export default function ThuiszorgBeveiligingPage() {
         "Risicotaxatie op maat",
         "Training voor uw team",
         "24/7 bereikbaar",
-        "Vergunning ND 8969",
+        "Vergunning ND 8968",
         "Ervaring met GGZ in thuissituatie",
         "Actief in heel Limburg",
       ]}

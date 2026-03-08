@@ -54,7 +54,7 @@ export default function OverOnsPage() {
               <h3 className="text-xl font-bold text-gray-900 mb-6">Praesidion in cijfers</h3>
               <div className="grid grid-cols-2 gap-6">
                 {[
-                  { value: "ND 8969", label: "Beveiligings­vergunning" },
+                  { value: "ND 8968", label: "Beveiligings­vergunning" },
                   { value: "24/7", label: "Beschikbaarheid" },
                   { value: "100%", label: "Vaste teams" },
                   { value: "KvK 97640794", label: "Ingeschreven" },
